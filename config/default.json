@@ -1,0 +1,10 @@
+{
+    "node" : {
+        "url" : "ws://localhost",
+        "port" : 8545
+    },
+
+    "contract" : {
+        "address" : "0xa30cf87d8213dc96819c1ef721c8d69a25fb299e"
+    }
+}
