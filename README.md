@@ -18,7 +18,7 @@ Then run the following commands:
 - truffle compile
 - truffle migrate
 
-Once deployed the contracts, compile with the right data the file config/default.json
+Once deployed the contracts, fill with the right data the file config/default.json
 
 Then, run the command "npm test" to start the server.
 
